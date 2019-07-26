@@ -3,23 +3,33 @@
     <title>toddshoman.com</title>
     <link href="https://www.toddshoman.com/feed.xml" rel="self" />
     <link href="https://www.toddshoman.com" />
-    <updated>2019-07-26T19:26:32-04:00</updated>
+    <updated>2019-07-26T19:44:54-04:00</updated>
     <author>
         <name>test</name>
     </author>
     <id>https://www.toddshoman.com</id>
 
     <entry>
-        <title>Get in touch</title>
+        <title>get in touch</title>
         <author>
             <name>test</name>
         </author>
         <link href="https://www.toddshoman.com/get-in-touch/"/>
         <id>https://www.toddshoman.com/get-in-touch/</id>
 
-        <updated>2019-07-26T18:59:36-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-07-26T19:44:03-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Email me - I'd love to hear from you. ts@toddshoman.com or on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Email me - I'd love to hear from you.</p>
+<p><a href="mailto:ts@toddshoman.com?subject=From%20ToddShoman.com">ts@toddshoman.com</a></p>
+<p>or on <a href="http://www.linkedin.com/in/toddshoman">LinkedIn</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Behind The Scenes</title>
