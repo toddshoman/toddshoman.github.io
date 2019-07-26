@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "toddshoman.com",
+    "description": "",
+    "home_page_url": "https://www.toddshoman.com",
+    "feed_url": "https://www.toddshoman.com/feed.json",
+    "user_comment": "",
+    "icon": "https://www.toddshoman.com/media/website/ToddShomanLogo1.png",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://www.toddshoman.com/red-dragon/",
+            "url": "https://www.toddshoman.com/red-dragon/",
+            "title": "Red Dragon",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-24T10:19:39-04:00",
+            "date_modified": "2019-07-24T10:19:39-04:00"
+        }
+    ]
+}

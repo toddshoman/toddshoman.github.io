@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>toddshoman.com</title>
+    <link href="https://www.toddshoman.com/feed.xml" rel="self" />
+    <link href="https://www.toddshoman.com" />
+    <updated>2019-07-26T15:45:39-04:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://www.toddshoman.com</id>
+
+    <entry>
+        <title>Red Dragon</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://www.toddshoman.com/red-dragon/"/>
+        <id>https://www.toddshoman.com/red-dragon/</id>
+
+        <updated>2019-07-24T10:19:39-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
