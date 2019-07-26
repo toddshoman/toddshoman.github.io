@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.toddshoman.com/get-in-touch/",
+            "url": "https://www.toddshoman.com/get-in-touch/",
+            "title": "Get in touch",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T18:59:36-04:00",
+            "date_modified": "2019-07-26T18:59:36-04:00"
+        },
+        {
+            "id": "https://www.toddshoman.com/behind-the-scenes/",
+            "url": "https://www.toddshoman.com/behind-the-scenes/",
+            "title": "Behind The Scenes",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T17:00:46-04:00",
+            "date_modified": "2019-07-26T17:00:46-04:00"
+        },
+        {
             "id": "https://www.toddshoman.com/red-dragon/",
             "url": "https://www.toddshoman.com/red-dragon/",
             "title": "Red Dragon",
@@ -20,7 +44,7 @@
             "tags": [
             ],
             "date_published": "2019-07-24T10:19:39-04:00",
-            "date_modified": "2019-07-24T10:19:39-04:00"
+            "date_modified": "2019-07-26T18:56:07-04:00"
         }
     ]
 }
