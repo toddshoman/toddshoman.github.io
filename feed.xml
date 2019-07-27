@@ -3,34 +3,12 @@
     <title>toddshoman.com</title>
     <link href="https://www.toddshoman.com/feed.xml" rel="self" />
     <link href="https://www.toddshoman.com" />
-    <updated>2019-07-27T00:19:30-04:00</updated>
+    <updated>2019-07-27T12:35:40-04:00</updated>
     <author>
         <name>Todd</name>
     </author>
     <id>https://www.toddshoman.com</id>
 
-    <entry>
-        <title>Get in Touch</title>
-        <author>
-            <name>Todd</name>
-        </author>
-        <link href="https://www.toddshoman.com/get-in-touch/"/>
-        <id>https://www.toddshoman.com/get-in-touch/</id>
-
-        <updated>2019-07-26T19:46:04-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Email me - I'd love to hear from you. ts@toddshoman.com or on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Email me - I'd love to hear from you.</p>
-<p><a href="mailto:ts@toddshoman.com?subject=From%20ToddShoman.com">ts@toddshoman.com</a></p>
-<p>or on <a href="http://www.linkedin.com/in/toddshoman">LinkedIn</a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Behind The Scenes</title>
         <author>
@@ -44,15 +22,102 @@
         <content></content>
     </entry>
     <entry>
-        <title>Red Dragon</title>
+        <title>Red Dragon 5k</title>
         <author>
             <name>Todd</name>
         </author>
         <link href="https://www.toddshoman.com/red-dragon/"/>
         <id>https://www.toddshoman.com/red-dragon/</id>
 
-        <updated>2019-07-26T18:56:07-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-07-27T12:34:55-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.toddshoman.com/media/posts/1/Red-Orion40mm.jpg" alt="" />
+                    Image SensorImage Sensor Size25.6 x 13.5 mm (Super35)Effective Sensor Resolution5120 x 2700&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.toddshoman.com/media/posts/1/Red-Orion40mm.jpg" alt="" />
+                <div class="group_K7YrQottgVsRZ4B6zAaGG">
+<div class="name_3mapjiENorVzh8SvFyXVPc firstGroupInItem_k8WqCFToyTsIW3AYbSuui" >Image Sensor</div>
+<table class="table_o418fscimQZEg1oshu4aX" >
+<tbody>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL " >Image Sensor Size</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v " >25.6 x 13.5 mm (Super35)</td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Effective Sensor Resolution</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" >5120 x 2700 (13.8 MP)</td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Advertised Dynamic Range</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" >16.5 Stops</td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Signal-to-Noise Ratio</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" >80 dB</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="group_K7YrQottgVsRZ4B6zAaGG">
+<div class="name_3mapjiENorVzh8SvFyXVPc" >Camera</div>
+<table class="table_o418fscimQZEg1oshu4aX" >
+<tbody>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL " >Lens Mount</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v " ><i>EF / PL</i></td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Built-In ND Filter</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" ><i>None</i></td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Built-In Microphone Type</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" >Stereo</td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Recording Media</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" ><strong>1 x </strong>RED MINI-MAG Card Slot</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="group_K7YrQottgVsRZ4B6zAaGG">
+<div class="name_3mapjiENorVzh8SvFyXVPc" >Internal Recording</div>
+<table class="table_o418fscimQZEg1oshu4aX" >
+<tbody>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL " >Raw Recording</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v " ><strong>REDCODE RAW:</strong><br>5120 x 2700 (170 MB/s) <br>4096 x 2160 <br>3072 x 1620 <br>2048 x 1080 </td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Recording Modes</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" ><strong>ProRes 422HQ: </strong><br>4096 x 2160 at 29.97 fps <br><strong>DNxHR 8-Bit: </strong><br>4096 x 2160 at 29.97 fps </td>
+</tr>
+<tr class="pair_3u9fnESIQrtuEu6ye_zM4k" >
+<td class="label_3bLwbW8ibvYc5tUwpKVQsL" >Audio Recording</td>
+<td class="value_11Av1yGkVYn9TX48mQeu9v" >2-Channel 24-Bit 48 kHz</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Included in Kit:</strong></p>
+<ol>
+<li>RED V-Lock IO</li>
+<li>4 CoreSX 98wh Battery</li>
+<li>2 CoreSX Chargers</li>
+<li>RED 480GB MiniMag, 240GB MiniMag, 120 GB MiniMag</li>
+<li>4.7" RED Viewfinder</li>
+<li>EF Lens Mount</li>
+<li>Skin Tone OLPF, Lowlight OLPF, Standard OLPF</li>
+<li>RED Top Handle</li>
+<li>RED Side Handle</li>
+</ol>
+<p> </p>
+</div>
+            ]]>
+        </content>
     </entry>
 </feed>
