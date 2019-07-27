@@ -3,16 +3,16 @@
     <title>toddshoman.com</title>
     <link href="https://www.toddshoman.com/feed.xml" rel="self" />
     <link href="https://www.toddshoman.com" />
-    <updated>2019-07-26T21:36:43-04:00</updated>
+    <updated>2019-07-26T22:56:48-04:00</updated>
     <author>
-        <name>test</name>
+        <name>Todd</name>
     </author>
     <id>https://www.toddshoman.com</id>
 
     <entry>
         <title>Get in Touch</title>
         <author>
-            <name>test</name>
+            <name>Todd</name>
         </author>
         <link href="https://www.toddshoman.com/get-in-touch/"/>
         <id>https://www.toddshoman.com/get-in-touch/</id>
@@ -34,7 +34,7 @@
     <entry>
         <title>Behind The Scenes</title>
         <author>
-            <name>test</name>
+            <name>Todd</name>
         </author>
         <link href="https://www.toddshoman.com/behind-the-scenes/"/>
         <id>https://www.toddshoman.com/behind-the-scenes/</id>
@@ -46,7 +46,7 @@
     <entry>
         <title>Red Dragon</title>
         <author>
-            <name>test</name>
+            <name>Todd</name>
         </author>
         <link href="https://www.toddshoman.com/red-dragon/"/>
         <id>https://www.toddshoman.com/red-dragon/</id>

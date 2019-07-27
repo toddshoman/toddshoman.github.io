@@ -7,7 +7,7 @@
     "user_comment": "",
     "icon": "https://www.toddshoman.com/media/website/ToddShomanLogo1.png",
     "author": {
-        "name": "test"
+        "name": "Todd"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "summary": "Email me - I'd love to hear from you. ts@toddshoman.com or on&hellip;",
             "content_html": "<p>Email me - I'd love to hear from you.</p>\n<p><a href=\"mailto:ts@toddshoman.com?subject=From%20ToddShoman.com\">ts@toddshoman.com</a></p>\n<p>or on <a href=\"http://www.linkedin.com/in/toddshoman\">LinkedIn</a></p>",
             "author": {
-                "name": "test"
+                "name": "Todd"
             },
             "tags": [
             ],
@@ -29,7 +29,7 @@
             "url": "https://www.toddshoman.com/behind-the-scenes/",
             "title": "Behind The Scenes",
             "author": {
-                "name": "test"
+                "name": "Todd"
             },
             "tags": [
             ],
@@ -41,7 +41,7 @@
             "url": "https://www.toddshoman.com/red-dragon/",
             "title": "Red Dragon",
             "author": {
-                "name": "test"
+                "name": "Todd"
             },
             "tags": [
             ],
