@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://www.toddshoman.com/welcome/",
+            "url": "https://www.toddshoman.com/welcome/",
+            "title": "Welcome",
+            "summary": "ToddShoman.com Film &amp; TV Planning / Production / Post / Gear Rental&hellip;",
+            "content_html": "<p><strong>ToddShoman.com</strong><br>Film &amp; TV<br>Planning / Production / Post / Gear Rental</p>\n<h6 id=\"mcetoc_1dgocm7ps0\">Digital Cinema Production Featuring an Extensive Rental Inventory<br><br>Including:</h6>\n<ul>\n<li class=\"align-justify\">RED, Arri, Sony, Panasonic, and BlackMagic Cameras <img class=\"post__image--right\" src=\"https://www.toddshoman.com/media/posts/4/Red-Cooke-Rig.png\" alt=\"\" width=\"539\" height=\"325\"></li>\n<li class=\"align-justify\">Arri, Litepanels, Astera LED, Intellytech Lighting</li>\n<li class=\"align-justify\">Sachtler and Manfrotto Support</li>\n<li class=\"align-justify\">DanaDolly and MoviPro camera movement.</li>\n<li class=\"align-justify\">Mathews Studio Equipment</li>\n<li class=\"align-justify\">Canon and Sigma Lenses</li>\n<li class=\"align-justify\">Flanders Scientific Reference Monitoring</li>\n<li class=\"align-justify\">DaVinci Resolve Color Finishing</li>\n<li class=\"align-justify\"><strong>Massive</strong> Unilumin/Coleder LED Panel Inventory for Virtual Scenic or set-extension </li>\n</ul>\n<p><br>In-house and ready for immediate deployment.</p>\n<h5 id=\"mcetoc_1dgocm7ps1\">Event Video Production Featuring:</h5>\n<ul>\n<li class=\"align-justify\">Christie Pandora &amp; Spyder X80</li>\n<li class=\"align-justify\">Dataton Watchout</li>\n<li class=\"align-justify\">disguise Media Servers</li>\n<li class=\"align-justify\">Barco E2</li>\n</ul>\n<p class=\"align-left\"><br>25+ years providing Creative &amp; Technical services to the Entertainment &amp; Corporate Communication Industries  </p>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-26T20:19:29-04:00",
+            "date_modified": "2019-07-26T20:19:29-04:00"
+        },
+        {
             "id": "https://www.toddshoman.com/get-in-touch/",
             "url": "https://www.toddshoman.com/get-in-touch/",
             "title": "Get in Touch",
